@@ -34,7 +34,7 @@
     methods: {
       addGroup()
       {
-        this.$router.push({name: 'AddGroup'});
+        this.$router.push({name: 'AddGroupFriends'});
       }
     }
   }
